@@ -1,7 +1,7 @@
 {
   "requirements": [
     {
-      "description": "1 - Crie uma tela de listagem de receitas.",
+      "description": "1 - Crie uma página de login",
       "bonus": false
     }
   ]
